@@ -13,9 +13,9 @@ pip install gradio
 ## Dependencies
 This script requires the following dependencies to be installed:
 
-1.Python 3
-2.OpenCV
-3.Gradio
+1.`Python 3`
+2.`OpenCV`
+3.`Gradio`
 
 
 ## Usage
