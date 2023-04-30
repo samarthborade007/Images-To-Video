@@ -31,3 +31,4 @@ This script requires the following dependencies to be installed:
 You can customize the frame rate and video resolution by modifying the values of the `FPS` and `RESOLUTION` constants at the beginning of the script.
 
 
+### Vid with title.py allows you to add a Title slide at the beginning .
